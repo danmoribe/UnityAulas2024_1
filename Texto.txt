@@ -1,3 +1,6 @@
 aaaaaa
+<<<<<<< HEAD
 Teobaldo esteve aqui
-Na verdade o Lactea esteve aqui
+Na verdade o Lactea esteve aquiNa verdade o Lactea esteve aquiNa verdade o Lactea esteve aqui
+=======
+>>>>>>> parent of 8c50e2f (Aprimoramento do Texto)
